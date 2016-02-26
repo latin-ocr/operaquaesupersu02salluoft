@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaquaesupersu02salluoft/operaquaesupersu02salluoft_0021.png"; bbox 0 0 1702 2982; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 305 821 1278 888">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 305 821 1278 888">
+     <span class='ocr_line' id='line_1_1' title="bbox 305 821 1278 888; baseline -0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 305 825 375 886; x_wconf 78' lang='lat' dir='ltr'><strong>G.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 415 821 893 887; x_wconf 80' lang='lat' dir='ltr'><strong>SALLUSTI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 944 821 1278 888; x_wconf 71' lang='lat' dir='ltr'>CRISPI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 95 1128 1474 1213">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 95 1128 1474 1213">
+     <span class='ocr_line' id='line_1_2' title="bbox 95 1128 1474 1213; baseline 0.006 -8"><span class='ocrx_word' id='word_1_4' title='bbox 95 1128 970 1209; x_wconf 74' lang='lat' dir='ltr'>IUGURTHINO</span> <span class='ocrx_word' id='word_1_5' title='bbox 1036 1131 1474 1213; x_wconf 78' lang='lat' dir='ltr'>BELLo</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 608 1318 950 1366">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 608 1318 950 1366">
+     <span class='ocr_line' id='line_1_3' title="bbox 608 1318 950 1366; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 608 1318 950 1366; x_wconf 81' lang='lat' dir='ltr'><strong>LIBER.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 640 1573 911 1582">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 640 1573 911 1582">
+     <span class='ocr_line' id='line_1_4' title="bbox 640 1573 911 1582; baseline 0.011 -3"><span class='ocrx_word' id='word_1_7' title='bbox 640 1573 911 1582; x_wconf 72' lang='lat'><strong>———-</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
